@@ -1,4 +1,9 @@
-1. touch = creates a file
+1. git push origin master = adds the file to a fork of the main repository.
+![had some trouble with push](/users/michaelhall1/desktop/gitpush.png)
+
+
+
+
 2. mkdir = creates a directory or folder
 3. git add = adds the file to the staging area
 4. git status = shows any files you have in the stageing area
@@ -7,5 +12,4 @@
 7. clear = clears your screen and sends the cursor to the top
 8. subl = opens the file in sublime
 9. git remote -v = shows any remote repositories your are connected to
-10. git push = sends the file to the repository.
-pry = switches the terminal to run render Ruby code.
+10. pry = allows the terminal to render Ruby code.
