@@ -8,7 +8,7 @@
 6. git commit -m = sends the file to get hub the "-m" allows you to leave a comment
 7. clear = clears your screen and sends the cursor to the top
 8. subl = opens the file in sublime
-[Imgur](http://i.imgur.com/aYlTQwK.png)
+[Subl pic](http://i.imgur.com/aYlTQwK)
 
 9. git remote -v = shows any remote repositories your are connected to
 10. pry = allows the terminal to render Ruby code.
